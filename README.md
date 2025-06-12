@@ -1,5 +1,8 @@
 # SEO Analyzer App 🔍✨
 
+🚀 Live Demo
+ https://seo-analyzer-rth6gapke9h8umxtdrells.streamlit.app/  
+
 A powerful, user-friendly SEO Analyzer built with Python. It helps users analyze blog posts, tweets, and captions for SEO optimization using NLP, keyword density, readability, and more.
 
 ## 🚀 Features
